@@ -145,7 +145,7 @@ if __name__ == "__main__":
 
 
         # Run Quicksort comparisons on all datasets for current SIZE
-        #compare_quicksorts(datasets, SIZE)
+        compare_quicksorts(datasets, SIZE)
 
     # Demonstrate Hash Table functionality once
     print("\n\n=== Hash Table Demo ===")
